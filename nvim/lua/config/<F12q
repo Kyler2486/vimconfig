@@ -1,0 +1,45 @@
+~/.../lua/config $ :wq
+No command :wq found, did you mean:
+ Command atq in package at
+ Command aws in package awscli
+ Command pwd in package coreutils
+ Command lpq in package cups
+ Command dwm in package dwm from the x11-repo repository
+ Command eww in package eww from the x11-repo repository
+ Command awk in package gawk
+ Command gw in package gw from the x11-repo repository
+ Command iw in package iw from the root-repo repository
+ Command jq in package jq
+ Command jwm in package jwm from the x11-repo repository
+ Command dwp in package libllvm
+ Command q in package q-dns-client
+ Command rq in package rq
+ Command wg in package wireguard-tools
+ Command twm in package xorg-twm from the x11-repo repository
+ Command yq in package yq
+~/.../lua/config $ :q
+No command :q found, did you mean:
+ Command jq in package jq
+ Command q in package q-dns-client
+ Command rq in package rq
+ Command yq in package yq
+~/.../lua/config $ :q
+No command :q found, did you mean:
+ Command jq in package jq
+ Command q in package q-dns-client
+ Command rq in package rq
+ Command yq in package yq
+~/.../lua/config $ \\\5~[1;5D^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ^C
+~/.../lua/config $ ;
